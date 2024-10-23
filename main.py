@@ -139,8 +139,8 @@ def start():
     print(r"""
         
                     TOMARKET BOT
-    find new airdrop & bot here: t.me/sansxgroup
-              
+    find new airdrop & bot here: t.me/scripthub00
+              Dark Life auto Bot
         select this one :
         1. claim daily
         2. generate token
