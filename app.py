@@ -347,7 +347,7 @@ class Tomarket:
                         if 'status' in play_game:
                             if play_game['status'] == 0:
                                 self.print_timestamp(
-                                    f"{Fore.BLUE + Style.BRIGHT}[ Game Started ][Subscribe Here- https://www.youtube.com/@D4rkCipherX]{Style.RESET_ALL}"
+                                    f"{Fore.BLUE + Style.BRIGHT}[ Game Started ][Join our channel @scripthub00]{Style.RESET_ALL}"
                                     f"{Fore.WHITE + Style.BRIGHT} | {Style.RESET_ALL}"
                                     f"{Fore.YELLOW + Style.BRIGHT}[ Please Wait ~30 Seconds ]{Style.RESET_ALL}"
                                 )
